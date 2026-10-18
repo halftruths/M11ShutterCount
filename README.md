@@ -1,8 +1,6 @@
 # M11ShutterCount
 
-Read the shutter count and usage counters of a Leica M11 over USB.
-
-The script talks to the camera with PTP, the standard camera protocol, and sends only read-only commands.
+Read the shutter count and usage counters of a Leica M11 over USB PTP.
 
 > **Unofficial.** Not affiliated with or endorsed by Leica Camera AG. "Leica" and "M11" are trademarks of Leica Camera AG. Use at your own risk.
 
@@ -54,7 +52,7 @@ Leica Camera AG LEICA M11
 
 ## Compatibility
 
-Tested only on a Leica M11 with firmware 2.6.0, connected to a MacBook running macOS 27. Other firmware versions, M11 variants and operating systems may work but have not been tested.
+Tested only on a Leica M11 with firmware 2.6.0 via an arm MacBook running macOS 27.
 
 ## License
 
